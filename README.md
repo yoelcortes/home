@@ -1,2 +1,1 @@
-# website
-Yoel's personal website
+# Yoel's personal website
