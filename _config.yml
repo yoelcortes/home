@@ -22,7 +22,7 @@ title: Yoel Rene Cortes-Pena
 email: yoelcortes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://yoelcortes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  yoelcortes
 
