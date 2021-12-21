@@ -27,7 +27,7 @@ url: "https://yoelcortes.github.io" # the base hostname & protocol for your site
 github_username:  yoelcortes
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 include: ['_pages']
