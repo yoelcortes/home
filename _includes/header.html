@@ -1,0 +1,35 @@
+<!-- header -->
+<head>
+<style>
+header {
+  background-image: url('https://yalinli2.github.io/webpage/images/bg_index.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+</head>
+
+<header>
+<h1>
+Yalin Li
+</h1>
+</header>
+
+<aside>
+	<!--
+	<div>  Yalin Li </div>
+	-->
+	<div class="container">
+		<nav>
+			<ul>
+				<!-- the index/home page -->
+				<li><a href="{{ "/index" | prepend: site.baseurl }}">Home</a></li>
+				<!-- other content pages -->
+				{% for page in site.pages %} {% if page.title %}
+				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+				{% endif %} {% endfor %}
+			</ul>
+		</nav>
+	</div>
+</aside>
