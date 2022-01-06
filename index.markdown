@@ -23,7 +23,7 @@ layout: index
 
 I am currently a Ph.D. student in the [Guest Group](http://engineeringforsustainability.com)
 laboratory at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu).
-As part of the [Center for Advanced Bioenergy and Bioproducts Innovation (CABBI)](http://illinois.edu) 
+As part of the [Center for Advanced Bioenergy and Bioproducts Innovation (CABBI)](https://cabbi.bio/), 
 I create and leverage tools to design, simulate, and perform techno-economic 
 analysis and life cycle assessment of biorefineries. Using automated biorefinery 
 models, I perform rigorous uncertainty and sensitivity analyses to navigate 
